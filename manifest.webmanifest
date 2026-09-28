@@ -1,7 +1,7 @@
 {
   "name": "CertifAIed",
   "short_name": "CertifAIed",
-  "description": "Interactive AI course: 16 units, labs, practice and interview prep.",
+  "description": "Interactive AI course in English and French: 16 units, labs, practice and interview prep.",
   "id": "./",
   "start_url": "./",
   "scope": "./",
